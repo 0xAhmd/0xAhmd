@@ -1,6 +1,6 @@
-<h1 align="center">Hola! I'm Ahmed Hesham</h1>
+<h1 align="center">Hi! I'm Ahmed Hesham</h1>
 <h3 align="center">Network Admin // Software Engineer // Flutter Enthusiast</h3>
-<img src="https://i.gifer.com/3AyY.gif" alt="Ahmed Hesham GIF" style="display:block; margin:auto;">
+        <img src="https://gifer.com/en/3AyY.gif" alt="Ahmed Hesham GIF" style="display:block; margin:auto;">
 
 
 - Working Some Python [Python Weather APP](https://github.com/0xAhmd/Weather_App)
