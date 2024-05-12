@@ -2,16 +2,23 @@
 <h3 align="center">Network Admin // Software Engineer // Flutter Enthusiast</h3>
         <img src="https://gifer.com/en/3AyY.gif" alt="Ahmed Hesham GIF" style="display:block; margin:auto;">
 
+- 🌱 I’m currently learning **Django , Flutter , Docker , Firebase , Azure**
 
 - Working Some Python [Python Weather APP](https://github.com/0xAhmd/Weather_App)
-
-- 🌱 I’m currently learning **Django , Flutter , Docker , Firebase , Azure**
 
 - Working Some Python [Python Algorithms](https://github.com/0xAhmd/Algorithms)
 
 - Working Some Python [Python Simple Chatbot](https://github.com/0xAhmd/ChatBot)
 
 - Working Some Flutter [My First Flutter App => (toDo0_App)](https://github.com/0xAhmd/toDo0_App)
+
+- Working Some Flutter [superMario Game => (not completed yet)](https://github.com/0xAhmd/-uperMario)
+
+- Working Some Arduino [My First Arduino Coding => (toDo0_App)](https://github.com/0xAhmd/Sketch)
+
+- Working Some Front end [My First WEB App => (WE-Security)](https://github.com/0xAhmd/WE-Security)
+
+- Diving into [Problem Solving with => (Data structures and algorithms)](https://github.com/0xAhmd/Data-Structure-and-Algorithms)
 
 - 👨‍💻 All of my projects are available at [0xAhmd](0xAhmd)
 
