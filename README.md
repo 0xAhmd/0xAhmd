@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Ahmed Hesham</h1>
-<h3 align="center">Network Admin // Software Engineer // Flutter Enthusiast</h3>
+<h3 align="center">Network Admin // Software Engineer </h3>
         <img src="https://gifer.com/en/3AyY.gif" alt="Ahmed Hesham GIF" style="display:block; margin:auto;">
 
 - 🌱 I’m currently learning **Flutter, Firebase, Python**
