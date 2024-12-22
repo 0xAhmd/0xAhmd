@@ -2,7 +2,7 @@
 <h3 align="center">Network Admin // Software Engineer // Flutter Enthusiast</h3>
         <img src="https://gifer.com/en/3AyY.gif" alt="Ahmed Hesham GIF" style="display:block; margin:auto;">
 
-- 🌱 I’m currently learning **Flutter , Docker , Firebase , Azure**
+- 🌱 I’m currently learning **Flutter, Firebase, Python**
 
 - Working Some Python [Python Weather APP](https://github.com/0xAhmd/Weather_App)
 
