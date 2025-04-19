@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase, PHP**
 
-- Working Some PHP [PHP API]([https://github.com/0xAhmd/PHP_API_MANGA](https://github.com/0xAhmd/PHP_API_MANGA))
+- PHP API - Manga - A PHP-based API for managing Manga data.
 
-- Working Some PHP [PHP AUTH]([https://github.com/0xAhmd/PHP_AUTH](https://github.com/0xAhmd/PHP_AUTH))
+- PHP Authentication System - A PHP authentication system for secure user login and registration.
 
 - Working Some Flutter [My First Flutter App](https://github.com/0xAhmd/toDo0_App)
 
