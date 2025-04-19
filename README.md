@@ -2,23 +2,27 @@
 <h3 align="center"> Software Developer </h3>
         
 
-- 🌱 I’m currently learning **Flutter, Firebase, PHP**
+## 🌱 I’m currently learning **Flutter and PHP**
 
-- PHP API - Manga - A PHP-based API for managing Manga data.
 
-- PHP Authentication System - A PHP authentication system for secure user login and registration.
 
-- Working Some Flutter [My First Flutter App](https://github.com/0xAhmd/toDo0_App)
 
-- Working Some Flutter [superMario Game => (not completed yet)](https://github.com/0xAhmd/-uperMario)
 
-- Working Some Flutter [Expenses Tracker](https://github.com/0xAhmd/expenses_tracker)
+- [PHP API - Manga](https://github.com/0xAhmd/PHP_API_MANGA) - A PHP-based API for managing Manga data.
 
-- Working Some Flutter [Attack on Titan using BloC](https://github.com/0xAhmd/attack-on-titan-bloc)
+- [PHP Authentication System](https://github.com/0xAhmd/PHP_AUTH) - A PHP authentication system for secure user login and registration.
 
-- Working Some Arduino [My First Arduino Coding => (Motion Detection)](https://github.com/0xAhmd/Sketch)
+- Working on some Flutter projects:
+  - [My First Flutter App](https://github.com/0xAhmd/toDo0_App)
+  - [Super Mario Game (not completed yet)](https://github.com/0xAhmd/-uperMario)
+  - [Expenses Tracker](https://github.com/0xAhmd/expenses_tracker)
+  - [Attack on Titan using BloC](https://github.com/0xAhmd/attack-on-titan-bloc)
 
-- Diving into [Problem Solving with => (Data structures and algorithms)](https://github.com/0xAhmd/Data-Structure-and-Algorithms)
+- Working on some Arduino projects:
+  - [My First Arduino Coding (Motion Detection)](https://github.com/0xAhmd/Sketch)
+
+- Diving into [Problem Solving with Data Structures and Algorithms](https://github.com/0xAhmd/Data-Structure-and-Algorithms)
+
 
 - 👨‍💻 All of my projects are available at [0xAhmd](0xAhmd)
 
