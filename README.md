@@ -1,10 +1,12 @@
 <h1 align="center">Hi! I'm Ahmed Hesham</h1>
-<h3 align="center">Network Admin // Software Engineer </h3>
+<h3 align="center"> Software Developer </h3>
         
 
-- 🌱 I’m currently learning **Flutter, Firebase, Python**
+- 🌱 I’m currently learning **Flutter, Firebase, PHP**
 
-- Working Some Python [Python Algorithms](https://github.com/0xAhmd/Algorithms)
+- Working Some PHP [PHP API]([https://github.com/0xAhmd/PHP_API_MANGA](https://github.com/0xAhmd/PHP_API_MANGA))
+
+- Working Some PHP [PHP AUTH]([https://github.com/0xAhmd/PHP_AUTH](https://github.com/0xAhmd/PHP_AUTH))
 
 - Working Some Flutter [My First Flutter App](https://github.com/0xAhmd/toDo0_App)
 
