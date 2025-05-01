@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdzdHNsM2xpeWRheGdiMGE4bWZ5OWNzbWo3cXVsazNyN3FhemduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="420" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdzdHNsM2xpeWRheGdiMGE4bWZ5OWNzbWo3cXVsazNyN3FhemduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="520" />
 </p>    
 
 ## 🌱 I’m currently learning **Flutter and PHP**
@@ -44,6 +44,13 @@
 <a href="https://discord.gg/>_ Ahmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=">_ Ahmz" height="30" width="40" /></a>
 </p>
 
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xAhmd&show_icons=true&theme=tokyonight" alt="Ahmed Hesham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmd&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1djAwaGhldXRycWd1NWcxdHdzNXJ6dGw5NmlsZDg5cWtib3NieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="GIF" width="450" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1djAwaGhldXRycWd1NWcxdHdzNXJ6dGw5NmlsZDg5cWtib3NieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="GIF" width="550" />
 </p>  
