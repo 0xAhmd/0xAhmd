@@ -1,6 +1,10 @@
 <h1 align="center">Hi! I'm Ahmed Hesham</h1>
 <h3 align="center"> Software Developer </h3>
-        
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdzdHNsM2xpeWRheGdiMGE4bWZ5OWNzbWo3cXVsazNyN3FhemduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="420" />
+</p>    
 
 ## 🌱 I’m currently learning **Flutter and PHP**
 
@@ -39,3 +43,7 @@
 <a href="https://www.instagram.com/_statefulat4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdz.py" height="30" width="40" /></a>
 <a href="https://discord.gg/>_ Ahmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=">_ Ahmz" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1djAwaGhldXRycWd1NWcxdHdzNXJ6dGw5NmlsZDg5cWtib3NieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="GIF" width="450" />
+</p>  
