@@ -53,5 +53,5 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1djAwaGhldXRycWd1NWcxdHdzNXJ6dGw5NmlsZDg5cWtib3NieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="GIF" width="550" />
+  <img src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b9525p89ipir69g2na4aw7hebe0k33bhqw0nh3faux7w&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF" width="490" />
 </p>  
