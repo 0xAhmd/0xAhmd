@@ -17,25 +17,25 @@
 
 - [PHP Authentication System](https://github.com/0xAhmd/PHP_AUTH) - A PHP authentication system for secure user login and registration.
 
-- Working on some Flutter projects:
-  - [My First Flutter App](https://github.com/0xAhmd/toDo0_App)
-  - [Super Mario Game (not completed yet)](https://github.com/0xAhmd/-uperMario)
-  - [Expenses Tracker](https://github.com/0xAhmd/expenses_tracker)
-  - [Attack on Titan using BloC](https://github.com/0xAhmd/attack-on-titan-bloc)
+## 📂 Projects
 
-- Working on some Arduino projects:
-  - [My First Arduino Coding (Motion Detection)](https://github.com/0xAhmd/Sketch)
+- [Graph](https://github.com/0xAhmd/graph)  
+  A project focusing on graph data structures and algorithms.
 
-- Diving into [Problem Solving with Data Structures and Algorithms](https://github.com/0xAhmd/Data-Structure-and-Algorithms)
+- [Fake Mind](https://github.com/0xAhmd/fake-mind)  
+  An experimental project exploring AI-like behavior.
 
+- [Attack on Titan](https://github.com/0xAhmd/aot)  
+  A fun app inspired by Attack on Titan.
+
+- [Clean Architecture Books App](https://github.com/0xAhmd/clean_architecture_books_app)  
+  A Flutter app demonstrating clean architecture with a books catalog.
 
 - 👨‍💻 All of my projects are available at [0xAhmd](0xAhmd)
 
 - 💬 Ask me about **Python, C++, Dart and Flutter**
 
 - 📫 How to reach me **ahmedhesham200987@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XmNek2YsFmDKlYliAzIVu8xQpQ68b8k9/view?usp=drive_link](https://drive.google.com/file/d/1XmNek2YsFmDKlYliAzIVu8xQpQ68b8k9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,11 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xAhmd&show_icons=true&theme=tokyonight" alt="Ahmed Hesham's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAhmd&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b9525p89ipir69g2na4aw7hebe0k33bhqw0nh3faux7w&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF" width="490" />
-</p>  
