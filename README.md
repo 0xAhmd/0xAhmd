@@ -20,13 +20,13 @@
 ## 📂 Projects
 
 - [Graph](https://github.com/0xAhmd/graph)  
-  A project focusing on graph data structures and algorithms.
+  A Super Simple Social Media App 
 
 - [Fake Mind](https://github.com/0xAhmd/fake-mind)  
-  An experimental project exploring AI-like behavior.
+  Chat Bot with Gemini API ans Support MD text .
 
 - [Attack on Titan](https://github.com/0xAhmd/aot)  
-  A fun app inspired by Attack on Titan.
+  AOT Fandom App for attack on titan guys like me .
 
 - [Clean Architecture Books App](https://github.com/0xAhmd/clean_architecture_books_app)  
   A Flutter app demonstrating clean architecture with a books catalog.
